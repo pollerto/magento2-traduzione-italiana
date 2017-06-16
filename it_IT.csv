@@ -9294,16 +9294,16 @@ Search,Cerca,module,Magento_Sales
 "Shipping Info","Informazioni di spedizione",module,Magento_Sales
 "Update to your %store_name credit memo","Update to your %store_name credit memo",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Il tuo ordine #%increment_id è stato aggiornato con lo status di <strong>%order_status</strong>.",module,Magento_Sales
-"Invoice for your %store_name order","Invoice for your %store_name order",module,Magento_Sales
+"Invoice for your %store_name order","La fattura per il tuo ordine da %store_name",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",module,Magento_Sales
-"Update to your %store_name invoice","Update to your %store_name invoice",module,Magento_Sales
-"Your %store_name order confirmation","Your %store_name order confirmation",module,Magento_Sales
+"Update to your %store_name invoice","Aggiornamenti sulla tua fattura di %store_name",module,Magento_Sales
+"Your %store_name order confirmation","La tua conferma d'ordine da %store_name",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Una volta che il pacco sarà spedito, ti invieremo il numero di tracciamento.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Effettuato il <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","Una volta che il pacco sarà spedito, ti invieremo un'email con un link per tracciare il tuo ordine.",module,Magento_Sales
-"Update to your %store_name order","Update to your %store_name order",module,Magento_Sales
+"Update to your %store_name order","Aggiornamenti sul tuo ordine da %store_name",module,Magento_Sales
 "Your %store_name order has shipped","Your %store_name order has shipped",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","La conferma di spedizione è qua sotto. Grazie ancora per l'acquisto.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","La tua spedizione #%shipment_id per l'ordine #%order_id",module,Magento_Sales
